@@ -117,7 +117,7 @@ img {
   background-color: #404bbf;
 }
 
-.style-active::after {
+.header-menu-link::after {
   content: "";
   width: 100%;
   position: absolute;
@@ -455,6 +455,10 @@ img {
 
 .footer-left-part {
   margin-right: 120px;
+}
+
+.footer-right-part {
+  align-items: baseline;
 }
 
 .footer-right-text {
