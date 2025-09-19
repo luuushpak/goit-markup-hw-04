@@ -446,6 +446,7 @@ img {
 
 .footer .container {
   display: flex;
+  align-items: baseline;
 }
 
 .footer-social-list {
@@ -455,10 +456,6 @@ img {
 
 .footer-left-part {
   margin-right: 120px;
-}
-
-.footer-right-part {
-  align-items: baseline;
 }
 
 .footer-right-text {
